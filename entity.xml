@@ -1,0 +1,14 @@
+<Entity>
+
+  <!-- This is where components go -->
+
+    <GenomeDataComponent
+        is_predator="0"
+        food_chain_rank="0"
+        berserk_dont_attack_friends="1"
+        herd_id="player"
+        friend_thundermage="0"
+        friend_firemage="0"
+    ></GenomeDataComponent>
+
+</Entity>

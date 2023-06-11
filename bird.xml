@@ -1,0 +1,19 @@
+<Sprite 
+  default_animation="fly" 
+  filename="mods/bird/files/bird_gfx/Bird.png" 
+  offset_x="8" 
+  offset_y="8" >
+
+  <RectAnimation 
+    frame_count="4" 
+    frame_height="8" 
+    frame_wait="0.1" 
+    frame_width="8" 
+    frames_per_row="4" 
+    name="fly" 
+    pos_x="0" 
+    pos_y="1" >
+
+  </RectAnimation>
+
+</Sprite>

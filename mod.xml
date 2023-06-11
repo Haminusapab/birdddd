@@ -1,0 +1,6 @@
+<Mod
+	name="Bird"
+	description="Bird that follows you"
+	request_no_api_restrictions="0"	
+>
+</Mod>
